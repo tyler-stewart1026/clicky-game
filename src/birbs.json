@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Cockatoo",
+        "image": "./cockatoo.png"
+    }, 
+    {
+        "id": 2,
+        "name": "African Grey",
+        "image": "./african-grey.png"
+    }, 
+    {
+        "id": 3,
+        "name": "Cockatiel",
+        "image": "./cockatiel.png"
+    }, 
+    {
+        "id": 4,
+        "name": "Indian Ring Neck",
+        "image": "./indian-ring-neck.png"
+    }, 
+    {
+        "id": 5,
+        "name": "Alexandrine Parakeet",
+        "image": "./alexandrine.png"
+    }, 
+    {
+        "id": 6,
+        "name": "Scarlett Macaw",
+        "image": "./scarlett-macaw.png"
+    }, 
+    {
+        "id": 7,
+        "name": "Raven",
+        "image": "./raven.png"
+    },
+    {
+        "id": 8,
+        "name": "Green-Cheek Conure",
+        "image": "./chip.png"
+    }, 
+    {
+        "id": 9,
+        "name": "Caique",
+        "image": "./caique.png"
+    }, 
+    {
+        "id": 10,
+        "name": "Toucan",
+        "image": "./toucan.png"
+    }, 
+    {
+        "id": 11,
+        "name": "Budgie",
+        "image": "./budgie.png"
+    }, 
+    {
+        "id": 12,
+        "name": "Owl",
+        "image": "./owl.png"
+    } 
+]
