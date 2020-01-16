@@ -1,0 +1,1 @@
+{"version":3,"sources":["cardStyle.css"],"names":[],"mappings":"AAAA,WACI,YAAa,CACb,cAAe,CACf,sBACJ,CAEA,eACI,WAAY,CACZ,YACJ","file":"main.c628b9bc.chunk.css","sourcesContent":[".container {\r\n    display: flex;\r\n    flex-wrap: wrap;\r\n    justify-content: center;\r\n}\r\n\r\n.img-thumbnail {\r\n    width: 200px;\r\n    height: 200px;\r\n}"]}
